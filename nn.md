@@ -1,3 +1,8 @@
+* 테스트케이스
+  - ValidatorTest: 입력 예외 검증 테스트
+  - OrderTest: 총구매액, 프로모션 적용, 멤버십할인 테스트
+  - PurchaseTest: 프로모션 상품 포함 구매에 대한 할인 및 증정 테스트
+
 # java-convenience-store-precourse
 ----
 ### 1. 기능 요구 사항
