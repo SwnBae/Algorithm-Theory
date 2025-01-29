@@ -1,4 +1,4 @@
-해싱?
+해싱
 insert, search, delete에 특화된 자료구조, dictionary
 O(1)
 ordering을 할 수 없음, 비용이 많이 든다.
